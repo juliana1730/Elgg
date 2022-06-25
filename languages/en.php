@@ -228,30 +228,30 @@ return array(
  * Groups
  */
 
-	'group' => "Group",
-	'item:group' => "Group",
-	'collection:group' => 'Groups',
-	'item:group:group' => "Group",
-	'collection:group:group' => 'Groups',
-	'groups:tool_gatekeeper' => "The requested functionality is currently not enabled in this group",
+	'group' => "Grupo",
+	'item:group' => "Grupo",
+	'collection:group' => 'Grupos',
+	'item:group:group' => "Grupo",
+	'collection:group:group' => 'Grupos',
+	'groups:tool_gatekeeper' => "A funcionalidade solicitada não está ativada neste grupo",
 
 /**
  * Users
  */
 
-	'user' => "User",
-	'item:user' => "User",
-	'collection:user' => 'Users',
-	'item:user:user' => 'User',
-	'collection:user:user' => 'Users',
-	'notification:user:user:make_admin' => "Send a notification when a user receives admin rights",
-	'notification:user:user:remove_admin' => "Send a notification when the admin rights of a user are revoked",
-	'notification:user:user:unban' => "Send a notification when a user is unbanned",
+	'user' => "Usuário",
+	'item:user' => "Usuário",
+	'collection:user' => 'Usuários',
+	'item:user:user' => 'Usuário',
+	'collection:user:user' => 'Usuários',
+	'notification:user:user:make_admin' => "Enviar uma notificação quando um usuário receber direitos de administrador",
+	'notification:user:user:remove_admin' => "Enviar uma notificação quando os direitos de administrador de um usuário forem revogados",
+	'notification:user:user:unban' => "Enviar uma notificação quando um usuário for desbanido",
 
-	'friends' => "Friends",
-	'collection:friends' => 'Friends\' %s',
+	'friends' => "Amigos",
+	'collection:friends' => 'Amigos\' %s',
 
-	'avatar' => 'Avatar',
+	'avatar' => 'Sua Foto',
 	'avatar:noaccess' => "You're not allowed to edit this user's avatar",
 	'avatar:create' => 'Create your avatar',
 	'avatar:edit' => 'Edit avatar',
