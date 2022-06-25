@@ -228,12 +228,12 @@ return array(
  * Groups
  */
 
-	'group' => "Group",
-	'item:group' => "Group",
-	'collection:group' => 'Groups',
-	'item:group:group' => "Group",
-	'collection:group:group' => 'Groups',
-	'groups:tool_gatekeeper' => "The requested functionality is currently not enabled in this group",
+	'group' => "Grupo",
+	'item:group' => "Grupo",
+	'collection:group' => 'Grupos',
+	'item:group:group' => "Grupo",
+	'collection:group:group' => 'Grupos',
+	'groups:tool_gatekeeper' => "A funcionalidade solicitada não está ativada neste grupo",
 
 /**
  * Users
