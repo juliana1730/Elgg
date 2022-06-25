@@ -1058,10 +1058,10 @@ For improved performance, it is recommended that you enable and configure OPcach
  * Activity river
  */
 
-	'river:all' => 'All Site Activity',
-	'river:mine' => 'My Activity',
+	'river:all' => 'Toda atividade do site',
+	'river:mine' => 'Minhas Atividades',
 	'river:owner' => 'Activity of %s',
-	'river:friends' => 'Friends Activity',
+	'river:friends' => 'Amigos Ativos',
 	'river:select' => 'Show %s',
 	'river:comments:more' => '+%u more',
 	'river:comments:all' => 'View all %u comments',
